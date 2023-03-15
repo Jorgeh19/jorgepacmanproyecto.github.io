@@ -514,7 +514,7 @@ function animate() {
   if (bolitas.length === 0) {
     console.log('Ganas')
     cancelAnimationFrame(animationId)
-    alert ("¡¡Feliciddades has ganado!!")
+    alert ("¡¡Felicidades has ganado!!")
   }
 
   // power ups 
